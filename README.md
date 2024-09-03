@@ -3,9 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinisingh0510
-&label=Profile%20views&color=0e75b6&style=flat" alt="shalinisingh0510
-" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinisingh0510&label=Profile%20views&color=0e75b6&style=flat" alt="shalinisingh0510" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalinisingh0510" alt="shalinisingh0510" /></a> </p>
 <img align ="right" width ="300px" alt="coding" src="https://github.com/kumargaurav2722/kumargaurav2722/blob/main/animated_coding%202.jpeg"/>
