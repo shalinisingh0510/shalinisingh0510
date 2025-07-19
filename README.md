@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://leetcode.com/shalu_codeThrust/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/shalinishaybzz/profile" target="blank">
