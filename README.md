@@ -1,89 +1,99 @@
-<h1 align="center">Hi, I'm Shalini Kumari 👋</h1>
-
-<h3 align="center">
-Software Engineer • Problem Solver • Full-Stack Developer
-</h3>
-
+<!-- HERO SECTION -->
 <p align="center">
-I enjoy building meaningful products, solving complex problems,  
-and continuously leveling up my engineering skills 🚀
-</p>
-
----
-
-### 👩‍💻 About Me
-
-- 🔭 Currently building **Vedfolio** — a developer-focused portfolio platform  
-- 🌱 Learning **Express.js** and **Cloud Computing** to strengthen backend & deployment skills  
-- 💡 Strong interest in **scalable backend systems & clean API design**
-- 💬 Ask me about **DSA, Problem Solving, MERN / MEAN Stack**
-- 📫 Reach me at **shalinishareyasingh@gmail.com**
-- ⚡ Fun fact: *Debugging feels better than finishing the feature 😄*
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shalini-kumari-61190830a/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://leetcode.com/shalu_codeThrust/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/shalinishaybzz/profile" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-- C, C++, Java, JavaScript, Python, Go, TypeScript
-
-**Frontend**
-- HTML, CSS, Bootstrap, React, Next.js, Angular, Sass
-
-**Backend**
-- Node.js, **Express.js**, REST APIs, GraphQL
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB, Redis
-
-**Cloud & DevOps**
-- **AWS**, Docker, Kubernetes, Jenkins, Nginx, Linux
-
-**Tools**
-- Git, GitHub, Postman, Figma
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shalinisingh0510&show_icons=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shalinisingh0510&layout=compact" height="150"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shalini+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Building+Things+That+Actually+Scale;DSA+%2B+Backend+%2B+Cloud" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinisingh0510"/>
+  <b>A developer who treats GitHub like a product, not a dump.</b>
 </p>
-
----
-
-### ✨ What I Care About
-
-- Writing **clean, readable, and maintainable code**
-- Understanding **why** something works, not just *how*
-- Building projects that reflect **real-world engineering**
-
-> **“Consistency beats intensity.”**  
-> Small improvements every day lead to big results.
-
----
 
 <p align="center">
-⭐ If you find my work useful, feel free to star the repositories!
+  <img src="https://komarev.com/ghpvc/?username=shalinisingh0510&label=Profile+Views&color=ff69b4&style=for-the-badge" />
 </p>
+
+---
+
+## 🚀 Who Am I?
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+I’m **Shalini Kumari**, a software engineer who loves  
+**clean backend logic, strong problem-solving, and real-world systems**.
+
+- 🧠 Strong foundation in **DSA & algorithmic thinking**
+- 🛠️ Building **Vedfolio** — a developer-centric portfolio platform
+- 🌱 Currently learning **Express.js** & **Cloud Computing**
+- ⚙️ Interested in **scalable APIs & backend architecture**
+- 💬 Love talking about **MERN, system thinking, and design tradeoffs**
+- 📩 **shalinishareyasingh@gmail.com**
+
+> *I don’t just write code. I design how things should work.*
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalini-kumari-61190830a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/shalu_codeThrust/">
+    <img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shalinishaybzz/profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack (Visual First)
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,ts" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,sass,bootstrap" />
+</p>
+
+### ⚙️ Backend & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,aws,nginx" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,postman,figma" />
+</p>
+
+---
+
+## 📊 GitHub in Motion 
+
+> These links are **correct**.  
+> If they show `?`, refresh once or open in incognito (GitHub rate limit).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalinisingh0510&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinisingh0510&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shalinisingh0510&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 My Engineering Mindset
+
+```text
+✔ Think before coding
+✔ Prefer clarity over cleverness
+✔ Build for scale, not shortcuts
+✔ Learn deeply, not superficially
