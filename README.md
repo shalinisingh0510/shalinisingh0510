@@ -74,11 +74,11 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 ## 📊 GitHub Stats (Self-Hosted • Zero Downtime)
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api?username=shalinisingh0510&show_icons=true&rank_icon=github&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api?username=shalinisingh0510&show_icons=true&rank_icon=github&theme=radical&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api/top-langs/?username=shalinisingh0510&layout=compact&langs_count=6&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api/top-langs/?username=shalinisingh0510&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 ---
