@@ -13,7 +13,6 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
 ## 👩‍💻 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
@@ -32,7 +31,6 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -49,7 +47,6 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack (Visual)
 
 ### 💻 Languages
@@ -74,7 +71,18 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-<!-- ===================== DARK SNAKE ===================== -->
+## 📊 GitHub Stats (Self-Hosted • Zero Downtime)
+
+<p align="center">
+  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api?username=shalinisingh0510&show_icons=true&rank_icon=github&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api/top-langs/?username=shalinisingh0510&layout=compact&langs_count=6&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -83,8 +91,7 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-<!-- ===================== METRICS ===================== -->
-## 📊 Development Metrics
+## 📈 Development Metrics
 
 <p align="center">
   <img src="https://metrics.lecoq.io/shalinisingh0510?template=classic&isocalendar=1&languages=1&followup=1&theme=dark" />
@@ -92,7 +99,6 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-<!-- ===================== MINDSET ===================== -->
 ## 🧠 My Engineering Mindset
 
 ```text
