@@ -28,7 +28,7 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 - 💬 Ask me about **DSA, MERN / MEAN, backend logic**
 - 📫 Reach me at **shalinishareyasingh@gmail.com**
 
-> *I believe clarity, consistency, and clean code beat hype.*
+> *Clarity, consistency, and clean code matter more than hype.*
 
 ---
 
@@ -79,6 +79,15 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shalinisingh0510/shalinisingh0510/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ===================== METRICS ===================== -->
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/shalinisingh0510?template=classic&isocalendar=1&languages=1&followup=1&theme=dark" />
 </p>
 
 ---
