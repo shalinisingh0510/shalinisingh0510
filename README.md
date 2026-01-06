@@ -1,4 +1,4 @@
-<!-- HERO SECTION -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shalini+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Building+Clean+Backends+%26+Scalable+Systems;DSA+%2B+Backend+%2B+Cloud" />
 </p>
@@ -13,6 +13,7 @@
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
 ## 👩‍💻 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
@@ -31,6 +32,7 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -47,6 +49,7 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack (Visual)
 
 ### 💻 Languages
@@ -71,14 +74,16 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
+<!-- ===================== DARK SNAKE ===================== -->
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shalinisingh0510/shalinisingh0510/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shalinisingh0510/shalinisingh0510/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
+<!-- ===================== MINDSET ===================== -->
 ## 🧠 My Engineering Mindset
 
 ```text
