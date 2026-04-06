@@ -1,4 +1,5 @@
 <!-- ===================== HERO SECTION ===================== -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shalini+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Building+Clean+Backends+%26+Scalable+Systems;DSA+%2B+Backend+%2B+Cloud" />
 </p>
@@ -17,15 +18,15 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Hi, I’m **Shalini Kumari** — a software engineer passionate about  
+Hi, I’m **Shalini Kumari** — a software engineer passionate about
 **problem solving, backend development, and scalable systems**.
 
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🔭 Currently building **Vedfolio** (developer-focused portfolio platform)
-- 🌱 Learning **Express.js** & **Cloud Computing**
-- ⚙️ Interested in **API design, backend architecture & DevOps**
-- 💬 Ask me about **DSA, MERN / MEAN, backend logic**
-- 📫 Reach me at **shalinishareyasingh@gmail.com**
+* 🧠 Strong foundation in **Data Structures & Algorithms**
+* 🔭 Currently building **Vedfolio**
+* 🌱 Learning **Express.js** & **Cloud Computing**
+* ⚙️ Interested in **API design, backend architecture & DevOps**
+* 💬 Ask me about **DSA, MERN / MEAN, backend logic**
+* 📫 Reach me at **[shalinishareyasingh@gmail.com](mailto:shalinishareyasingh@gmail.com)**
 
 > *Clarity, consistency, and clean code matter more than hype.*
 
@@ -47,43 +48,32 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-## 🧰 Tech Stack (Visual)
+## 🧰 Tech Stack
 
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,ts" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,sass,bootstrap" />
-</p>
-
-### ⚙️ Backend & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,aws,docker,kubernetes,nginx" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,ts,html,css,react,nextjs,angular,nodejs,express,mongodb,postgres,redis,docker,kubernetes,aws,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Self-Hosted • Zero Downtime)
+# 📊 GitHub Analytics
+
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api?username=shalinisingh0510&show_icons=true&rank_icon=github&theme=radical&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalinisingh0510&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 📈 Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api/top-langs/?username=shalinisingh0510&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api?username=shalinisingh0510&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-alpha-roan-80.vercel.app/api/top-langs/?username=shalinisingh0510&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shalinisingh0510/shalinisingh0510/output/github-contribution-grid-snake-dark.svg" />
@@ -91,10 +81,18 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 
 ---
 
-## 📈 Development Metrics
+# 🧠 Coding Profiles Stats
+
+## 🟠 LeetCode Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/shalinisingh0510?template=classic&isocalendar=1&languages=1&followup=1&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/shalu_codeThrust?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+## 🟢 GeeksforGeeks Stats
+
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/shalinishaybzz?theme=dark" />
 </p>
 
 ---
@@ -107,3 +105,4 @@ Hi, I’m **Shalini Kumari** — a software engineer passionate about
 ✔ Design for scale, not shortcuts
 ✔ Learn deeply, not superficially
 ✔ Consistency beats motivation
+```
