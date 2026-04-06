@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shalini+Kumari+👋;Backend+Engineer+%7C+Problem+Solver;Building+Scalable+Systems+🚀;DSA+%2B+Backend+%2B+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Shalini+Kumari;Backend+Engineer+%7C+Problem+Solver;Building+Scalable+Systems;DSA+%2B+Backend+%2B+Cloud" />
 </p>
 
 <p align="center">
