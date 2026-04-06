@@ -61,7 +61,7 @@ Hi, I’m **Shalini Kumari** — a backend-focused engineer passionate about
 
 ## 🌐 Your-Advisor
 
-🔗 https://github.com/shalinisingh0510/YOUR-ADVISER
+🔗 https://your-adviser-ow9p.vercel.app/
 
 > AI-powered career guidance platform
 
