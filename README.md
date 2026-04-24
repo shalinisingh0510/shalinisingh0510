@@ -7,6 +7,11 @@
 <p align="center">
   <b>Building systems that scale. Writing code that lasts.</b>
 </p>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=shalinisingh0510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" 
+  />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shalinisingh0510&label=Profile+Views&color=ff69b4&style=for-the-badge" />
