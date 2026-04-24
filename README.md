@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <img 
-    src="https://github-profile-trophy-beta-two.vercel.app/?username=shalinisingh0510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" 
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=shalinisingh0510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" 
   />
 </p>
 
